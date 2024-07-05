@@ -44,6 +44,7 @@
     </dependencies>
 
     <build>
+        <defaultGoal>install</defaultGoal>
         <plugins>
             <plugin>
                 <!-- настройка плагина maven-surefire-plugin -->
